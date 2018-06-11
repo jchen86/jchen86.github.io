@@ -1,0 +1,4 @@
+baseURL = "http://blog.jchen.tech/"
+languageCode = "en-us"
+title = "blog.jchen.tech"
+theme = "ananke"
